@@ -17,4 +17,6 @@
 #### 数字签名验证页面也需要先输入明文消息或者可以选择需要签名的文件。再选择公钥文件，加载已签名结果。最后点击验证即可完成，显示签名有效则说明验证成功。
 <img src="images/数字签名验证页面.png"/>
 
+##  生成软件过大，已保存到谷歌云盘，可以通过https://drive.google.com/drive/folders/1I8PivAoS73HakDHPhP_ssL9GlF1_d7Bv?usp=sharing下载
+
 
